@@ -1,4 +1,4 @@
-# 🚀 Selenium + Java SDET Interview Guide — 24 LPA Level
+# 🚀 Selenium + Java SDET Interview Guide — Level
 
 > **Covers**: Core Selenium, WebDriver internals, Frameworks, Design Patterns, CI/CD, Edge Cases, and Senior-level concepts.
 
