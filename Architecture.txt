@@ -970,6 +970,7 @@ Selenium 4 also introduced or improved several features such as Relative Locator
 
 The basic architecture remains similar: Test Script → Selenium Client → Browser Driver → Browser, but the communication protocol and supporting architecture were significantly improved in Selenium 4.
 
+
 Final Cheat Sheet
 Topic	Selenium 3	Selenium 4
 Main Protocol	JSON Wire	W3C WebDriver
@@ -985,6 +986,8 @@ Element Screenshot	❌	✅
 DevTools	Limited	Better
 Standardization	Older	W3C
 Recommended for New Projects	❌	✅
+
+
 
 Final Formula
 SELENIUM 3
