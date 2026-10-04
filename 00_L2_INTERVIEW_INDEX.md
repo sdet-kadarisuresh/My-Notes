@@ -1,4 +1,4 @@
-# 🎯 Infosys L2 SDET Interview — Complete Preparation Pack
+# 🎯  L2 SDET Interview — Complete Preparation Pack
 
 > **410+ Questions & Answers** | Ready-to-speak format | 5-10 min per answer
 > 
